@@ -1,0 +1,59 @@
+body{
+        background-image: linear-gradient(to top,skyblue, white);
+        background-size: cover;
+ 
+}
+#container{
+        height: 500px;
+        width: 600px;
+        border: 10px;
+        border-radius: 5px;
+       background-color: rgba(255, 255, 255, .25);
+       margin: 100px auto 0px auto;
+       
+        }
+
+ #heading {
+        margin-left: 100px;
+        font-size: 30px;
+        font-weight: 50px;
+}
+
+#image{
+        height: 150px;
+        width: 150px;
+        margin-left: 200px;
+
+}
+
+#timer{
+        font-size: 5.0rem;
+        margin-left: 80px;
+        margin-top: 7px;
+        
+       
+}
+sub{
+        font-size: 25px;
+}
+
+
+#start{
+        margin-left: 150px;
+        height: 30PX;
+        width: 70px;
+        margin-right: 30px;
+       
+}
+
+#stop{
+        height: 30PX;
+        width: 70px;
+        margin-right: 30px;
+        
+}
+
+#reset{
+        height: 30PX;
+        width: 70px;
+}
